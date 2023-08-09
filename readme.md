@@ -33,6 +33,8 @@ To run the Quiz App locally, follow these steps:
 
 ![Screenshot (102)](https://github.com/Irenaeus-XVI/quizApp/assets/87098443/7e735678-b21d-4362-b95d-9479272eb07a)
 ![Screenshot (103)](https://github.com/Irenaeus-XVI/quizApp/assets/87098443/9d5e6fd8-b10e-4e1d-aa05-fcb9bf0c8965)
+![Screenshot (107)](https://github.com/Irenaeus-XVI/quizApp/assets/87098443/25799b5d-3bce-4658-97e0-244405c24de2)
+![Screenshot (106)](https://github.com/Irenaeus-XVI/quizApp/assets/87098443/c7924a48-a73b-4246-b2d7-a50a53661cff)
 ![Screenshot (104)](https://github.com/Irenaeus-XVI/quizApp/assets/87098443/4e4c8820-22df-4cae-b823-6415423a1e82)
 
 ## Contributing
