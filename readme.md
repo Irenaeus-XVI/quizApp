@@ -31,8 +31,9 @@ To run the Quiz App locally, follow these steps:
 2. Navigate to the project directory: `cd quizApp`
 3. Install dependencies: `npm install`
 
-
-![Quiz App Screenshot](./screenshots/quiz_app_screenshot.png)
+![Screenshot (102)](https://github.com/Irenaeus-XVI/quizApp/assets/87098443/7e735678-b21d-4362-b95d-9479272eb07a)
+![Screenshot (103)](https://github.com/Irenaeus-XVI/quizApp/assets/87098443/9d5e6fd8-b10e-4e1d-aa05-fcb9bf0c8965)
+![Screenshot (104)](https://github.com/Irenaeus-XVI/quizApp/assets/87098443/4e4c8820-22df-4cae-b823-6415423a1e82)
 
 ## Contributing
 
